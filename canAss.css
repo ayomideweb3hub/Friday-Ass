@@ -1,0 +1,35 @@
+h1 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+p {
+    display: flex;
+    justify-content: center;
+    margin-top: 1px;
+}
+
+h2 {
+    background-color: blueviolet;
+    color: white;
+    width: 180px;
+    height: 40px;
+    padding-top: 12px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.gallerydiv {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;   
+
+}
+
+
+
+
+
+
+
+
